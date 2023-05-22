@@ -1,0 +1,2 @@
+# IntroductionToEarthSciences
+地球科学概论自整理资料
